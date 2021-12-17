@@ -1,0 +1,20 @@
+body{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h2{
+    color: chocolate;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+
+
+
+
+/* Make sure my css sheet goes after their css sheet */
