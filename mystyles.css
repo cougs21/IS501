@@ -1,0 +1,42 @@
+body{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+
+}
+h2{
+    color: chocolate;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+}
+.resumeListHeading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.CaptainAmericaShield{
+    color: blue;
+}
+
+.Disneyland{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+
+.TableauLink{
+    color: blue;
+}
+
+.col-md-10 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+/* Make sure my css sheet goes after their css sheet */
